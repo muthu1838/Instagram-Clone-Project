@@ -1,0 +1,336 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "user": {
+        "id": 201,
+        "username": "Virat.kohli",
+        "profile_pic": "/assets/virat_profile.jpg"
+      },
+      "image": "/assets/virat_batting.jpg",
+      "caption": "Focused. Determined. Always hungry for more 🏏🔥 #ChaseGreatness",
+      "likes": "4.5M",
+      "comments": [
+        {
+          "user": "rcb_fan_18",
+          "comment": "King Kohli 👑🔥"
+        },
+        {
+          "user": "cricket_world",
+          "comment": "Legend of the game 🙌"
+        }
+      ],
+      "timestamp": "2025-08-18T10:15:00Z"
+    },
+    {
+      "id": "1",
+      "user": {
+        "id": 301,
+        "username": "Netflix",
+        "profile_pic": "/assets/netflix_logo.jpg"
+      },
+      "image": "/assets/wednesday_poster.jpg",
+      "caption": "She sees the world differently 🖤✨ #WednesdayNetflix",
+      "likes": "9.2M",
+      "comments": [
+        {
+          "user": "fan_gothic",
+          "comment": "Jenna Ortega is 🔥🔥🔥"
+        },
+        {
+          "user": "addams_family",
+          "comment": "Wednesday is ICONIC 🖤"
+        }
+      ],
+      "timestamp": "2025-08-27T15:00:00Z"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 301,
+        "username": "Netflix",
+        "profile_pic": "/assets/netflix_logo.jpg"
+      },
+      "image": "/assets/money_heist_poster.jpg",
+      "caption": "Bella Ciao 🎭 The Professor & the gang live forever in our hearts. ❤️ #MoneyHeist",
+      "likes": "15.4M",
+      "comments": [
+        {
+          "user": "tokyo_fan",
+          "comment": "For Nairobi ❤️😭"
+        },
+        {
+          "user": "heist_army",
+          "comment": "Best series ever 🔥🔥"
+        }
+      ],
+      "timestamp": "2025-08-28T20:00:00Z"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 202,
+        "username": "Royalchallengersbangalore",
+        "profile_pic": "/assets/rcb_logo.jpg"
+      },
+      "image": "/assets/rcb_team.jpg",
+      "caption": "Bold, Fearless, and Red! ❤️💛 Chinnaswamy, are you ready? #PlayBold #RCBForever",
+      "likes": "3.8M",
+      "comments": [
+        {
+          "user": "virat.kohli",
+          "comment": "Proud to be part of this family 🙏"
+        },
+        {
+          "user": "fan_girl_18",
+          "comment": "Ee Sala Cup Namde 🏆🔥"
+        }
+      ],
+      "timestamp": "2025-08-19T18:30:00Z"
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": 301,
+        "username": "Netflix",
+        "profile_pic": "/assets/netflix_logo.jpg"
+      },
+      "image": "/assets/stranger_things_poster.jpg",
+      "caption": "The Upside Down awaits... 👾⚡ #StrangerThings",
+      "likes": "12.7M",
+      "comments": [
+        {
+          "user": "millie_fan",
+          "comment": "Eleven forever ❤️⚡"
+        },
+        {
+          "user": "demogorgon_hunter",
+          "comment": "Season 5 when?? 👀🔥"
+        }
+      ],
+      "timestamp": "2025-08-29T12:30:00Z"
+    },
+    {
+      "id": "6",
+      "user": {
+        "id": 202,
+        "username": "Royalchallengersbangalore",
+        "profile_pic": "/assets/rcb_logo.jpg"
+      },
+      "image": "/assets/rcb_cup.jpg",
+      "caption": "HISTORY CREATED! 🏆🎉 Royal Challengers Bangalore are the CHAMPIONS! ❤️💛 #PlayBold #EeSalaCupNamde #RCBForever",
+      "likes": "18.1M",
+      "comments": [
+        {
+          "user": "virat.kohli",
+          "comment": "Dreams do come true ❤️🏆 #ChampionTeam"
+        },
+        {
+          "user": "maxi_32",
+          "comment": "What a journey! Proud to be part of this moment 🔥🙌"
+        },
+        {
+          "user": "rcb_fan_army",
+          "comment": "We waited so long for this day 😭❤️"
+        }
+      ],
+      "timestamp": "2025-08-25T21:00:00Z"
+    }
+  ],
+  "profile": {
+    "id": 301,
+    "username": "Muthu Mariappan",
+    "profile_pic": "/assets/rohit1.jpg"
+  },
+  "suggestions": [
+    {
+      "id": "302",
+      "username": "cristiano ronaldo",
+      "profile_pic": "/assets/ronaldo.jpg"
+    },
+    {
+      "id": "303",
+      "username": "Rohit Sharma",
+      "profile_pic": "/assets/rohit.jpg"
+    },
+    {
+      "id": "304",
+      "username": "Hardik Pandya",
+      "profile_pic": "/assets/pandya.jpg"
+    },
+    {
+      "id": "305",
+      "username": "Real Madrid",
+      "profile_pic": "/assets/real.jpg"
+    },
+    {
+      "id": "306",
+      "username": "BMW",
+      "profile_pic": "/assets/bmw.jpg"
+    },
+    {
+      "id": "307",
+      "username": "Lionel Messi",
+      "profile_pic": "/assets/messi.jpg"
+    },
+    {
+      "id": "308",
+      "username": "FC Barcelona",
+      "profile_pic": "/assets/barca.jpg"
+    },
+    {
+      "id": "309",
+      "username": "Marvel Studios",
+      "profile_pic": "/assets/marvel.jpg"
+    },
+    {
+      "id": "310",
+      "username": "Netflix",
+      "profile_pic": "/assets/netflix_logo.jpg"
+    },
+    {
+      "id": "311",
+      "username": "Instagram",
+      "profile_pic": "/assets/instagram.jpg"
+    },
+    {
+      "id": "312",
+      "username": "Nike",
+      "profile_pic": "/assets/nike.jpg"
+    },
+    {
+      "id": "313",
+      "username": "LeBron James",
+      "profile_pic": "/assets/lebron.jpg"
+    },
+    {
+      "id": "314",
+      "username": "Taylor Swift",
+      "profile_pic": "/assets/taylor.jpg"
+    },
+    {
+      "id": "315",
+      "username": "Selena Gomez",
+      "profile_pic": "/assets/selena.jpg"
+    },
+    {
+      "id": "316",
+      "username": "Tesla",
+      "profile_pic": "/assets/tesla.jpg"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "user": {
+        "id": 201,
+        "username": "Rohit Sharma",
+        "profile_pic": "/assets/rohit.jpg"
+      },
+      "image": "/assets/story1.jpg"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 202,
+        "username": "Royalchallengersbangalore",
+        "profile_pic": "/assets/rcb_logo.jpg"
+      },
+      "image": "/assets/story2.jpg"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 202,
+        "username": "Muthu_11188",
+        "profile_pic": "/assets/real.jpg"
+      },
+      "image": "/assets/story3.jpg"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 201,
+        "username": "Bruce Wayne..",
+        "profile_pic": "/assets/rohit1.jpg"
+      },
+      "image": "/assets/story4.jpg"
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": 202,
+        "username": "Ms Dhoni 07",
+        "profile_pic": "/assets/pandya1.jpg"
+      },
+      "image": "/assets/story5.jpg"
+    },
+    {
+      "id": "6",
+      "user": {
+        "id": 202,
+        "username": "Virat Kohli",
+        "profile_pic": "/assets/real1.jpg"
+      },
+      "image": "/assets/story6.jpg"
+    },
+    {
+      "id": "7",
+      "user": {
+        "id": 201,
+        "username": "Burger King",
+        "profile_pic": "/assets/rohit2.jpg"
+      },
+      "image": "/assets/story7.jpg"
+    },
+    {
+      "id": "8",
+      "user": {
+        "id": 202,
+        "username": "Murugan Editzz",
+        "profile_pic": "/assets/pandya2.jpg"
+      },
+      "image": "/assets/story8.jpg"
+    },
+    {
+      "id": "9",
+      "user": {
+        "id": 202,
+        "username": "Burj Khalifa",
+        "profile_pic": "/assets/real2.jpg"
+      },
+      "image": "/assets/story9.jpg"
+    }
+  ],
+  "followers": [
+    {
+      "id": "205",
+      "username": "Ms Dhoni 07",
+      "profile_pic": "/assets/pandya1.jpg"
+    },
+    {
+      "id": "311",
+      "username": "Instagram"
+    },
+    {
+      "id": "316",
+      "username": "Tesla"
+    },
+    {
+      "id": "313",
+      "username": "LeBron James"
+    },
+    {
+      "id": "312",
+      "username": "Nike"
+    },
+    {
+      "id": "315",
+      "username": "Selena Gomez"
+    },
+    {
+      "id": "307",
+      "username": "Lionel Messi"
+    }
+  ]
+}
